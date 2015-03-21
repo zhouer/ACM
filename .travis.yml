@@ -1,3 +1,2 @@
-make && make test
-
 language: c
+script: make && make test
