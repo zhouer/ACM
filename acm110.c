@@ -97,7 +97,7 @@ int main()
 		printf(");\n");
 
 		work(sorted, 0, unsorted, len);
-		
+
 		printf("end.\n");
 		if (m != 0)
 		{
